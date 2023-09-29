@@ -13,5 +13,5 @@ This repository contains the documentation for an E-commerce Market Segmentation
  8. Concept Generation
  9. Final product Prototype
 
-Reading through our E-commerce Market Segmentation Report is like taking a journey into the heart of the digital marketplace.
+Reading through E-commerce Market Segmentation Report is like taking a journey into the heart of the digital marketplace.
 Remember, if you ever have any questions, thoughts, or simply want to chat about E-commerce or Machine Learning, please don't hesitate to reach out. You can mail at adash5904@gmail.com
